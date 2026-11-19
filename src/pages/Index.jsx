@@ -23,7 +23,7 @@ function Index() {
         <div className="flex md:w-1/3 mt-10 m-5">
           <img
             className="w-1/2 md:w-3/4 md:mt-24 rounded-2xl shadow-2xl md:m-10"
-            src="./user.jpg"
+            src="./user.jpeg"
             alt="user"
           />
           {/* Mobile Name & Skills */}
